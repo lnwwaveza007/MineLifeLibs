@@ -2,5 +2,5 @@ name: MineLifeLibs
 version: "${project.version}"
 main: lnwwaveza008.minelifelibs.MineLifeLibs
 api-version: 1.19
-authors: [lnwwaveza008, NightKunGz]
+authors: [Lnwwaveza007, NightKunGz]
 description: A utilities lib for MineLife
